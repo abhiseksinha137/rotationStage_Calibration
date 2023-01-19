@@ -1,0 +1,15 @@
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\bin\Release\rotationStage_Calibration.exe.config
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\bin\Release\rotationStage_Calibration.exe
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\bin\Release\rotationStage_Calibration.pdb
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\bin\Release\Emgu.CV.dll
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\bin\Release\Emgu.CV.Bitmap.dll
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\bin\Release\System.Drawing.Common.dll
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\obj\Release\rotationStage_Calibration.csproj.AssemblyReference.cache
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\obj\Release\rotationStage_Calibration.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\obj\Release\rotationStage_Calibration.Form1.resources
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\obj\Release\rotationStage_Calibration.Properties.Resources.resources
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\obj\Release\rotationStage_Calibration.csproj.GenerateResource.cache
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\obj\Release\rotationStage_Calibration.csproj.CoreCompileInputs.cache
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\obj\Release\rotationStage_Calibration.csproj.CopyComplete
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\obj\Release\rotationStage_Calibration.exe
+E:\CSharp\rotationStage_Calibration\rotationStage_Calibration\obj\Release\rotationStage_Calibration.pdb
